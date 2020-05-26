@@ -10,11 +10,11 @@
 		D9E66FFA22AD6358002F95EC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E66FF922AD6358002F95EC /* AppDelegate.m */; };
 		D9E66FFD22AD6358002F95EC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E66FFC22AD6358002F95EC /* ViewController.m */; };
 		D9E6700022AD6358002F95EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9E66FFE22AD6358002F95EC /* Main.storyboard */; };
-		D9E6700222AD6358002F95EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9E6700122AD6358002F95EC /* Assets.xcassets */; };
 		D9E6700522AD6358002F95EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9E6700322AD6358002F95EC /* LaunchScreen.storyboard */; };
 		D9E6700822AD6358002F95EC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E6700722AD6358002F95EC /* main.m */; };
 		D9E6701222AD6358002F95EC /* SmatCarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E6701122AD6358002F95EC /* SmatCarTests.m */; };
 		D9E6701D22AD6358002F95EC /* SmatCarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E6701C22AD6358002F95EC /* SmatCarUITests.m */; };
+		D9E6702A22AD64E4002F95EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9E6700122AD6358002F95EC /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -236,7 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9E6700522AD6358002F95EC /* LaunchScreen.storyboard in Resources */,
-				D9E6700222AD6358002F95EC /* Assets.xcassets in Resources */,
+				D9E6702A22AD64E4002F95EC /* Assets.xcassets in Resources */,
 				D9E6700022AD6358002F95EC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
